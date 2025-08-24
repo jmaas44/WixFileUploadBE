@@ -1,0 +1,9 @@
+{
+  "name": "drive-direct-upload",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "google-auth-library": "^9.14.1",
+    "undici": "^6.20.1"
+  }
+}
